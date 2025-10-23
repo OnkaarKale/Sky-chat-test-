@@ -1,0 +1,24 @@
+.home-pg {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.users-list {
+  list-style: none;
+  padding: 0;
+}
+
+.user-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.user-item button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
